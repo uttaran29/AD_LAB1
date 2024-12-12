@@ -1,0 +1,41 @@
+/* General padding for the body */
+body {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+/* Padding for headings */
+h1, h3, h4, h5 {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+/* Padding for summary section */
+p {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+/* Padding for lists 
+ul {
+    padding-left: 200px;
+    padding-right: 200px;
+}*/
+
+/* Padding for sections */
+h3 {
+    padding-left: 100px;
+    padding-right: 100px;;
+}
+
+/* Padding for contact info */
+p a {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+/* Custom padding for specific divs (if needed) */
+.summary, .education, .projects, .skills, .certifications, .work-experience, .achievements {
+    padding-left: 100px;
+    padding-right: 100px;
+}
